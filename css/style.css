@@ -55,7 +55,7 @@ body {
   margin: 2px auto;
   display: flex;
   flex-direction: row;
-  padding: 2%;
+  padding: 1%;
   box-shadow: groove;
   border-radius: 10px;
   align-content: space-between;
