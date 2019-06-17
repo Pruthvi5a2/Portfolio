@@ -55,7 +55,7 @@ body {
   margin: 2px auto;
   display: flex;
   flex-direction: row;
-  padding: 1%;
+  padding: 2%;
   border-radius: 10px;
   align-content: space-between;
 }
